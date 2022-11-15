@@ -1,0 +1,1 @@
+{"version":3,"file":"style.css","mappings":";;;AAAA;AACA;AACA;EACE,kBAAkB;EAClB,mBAAmB;EACnB,gBAAgB;EAChB,eAAe;AACjB","sources":["webpack://swwp/./src/styles/style.css"],"sourcesContent":["h1 {\r\n}\r\ndiv {\r\n  width: max-content;\r\n  height: max-content;\r\n  color: royalblue;\r\n  font-size: 100%;\r\n}\r\n"],"names":[],"sourceRoot":""}
